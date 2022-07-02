@@ -20,10 +20,11 @@ GPT-3 is a [Generative pre-trained transformer model](https://en.wikipedia.org/w
 
 ### Text
 
-[Cohere's Prompt Engineering page](https://docs.cohere.ai/prompt-engineering-wiki/)
+[Prompt Engineering by Cohere](https://docs.cohere.ai/prompt-engineering-wiki/)
 
 ### Images
 
+[Clip prompt engineer by Matthew McAteer](https://matthewmcateer.me/blog/clip-prompt-engineering/)
 
 ## Modifiers
 
