@@ -1,6 +1,6 @@
 # Awesome Prompt Engineering!
 
-This site provides great resources and well formed prompt engineering samples that you could use with image models like [OpenAI's Dall-E](https://openai.com/blog/dall-e/) or text models like [GPT-3](https://openai.com/blog/gpt-3/).
+This site provides great resources and well formed prompt engineering samples that you could use with image models like [OpenAI's Dall-E 2](https://openai.com/blog/dall-e/](https://openai.com/dall-e-2/) or text models like [GPT-3](https://openai.com/blog/gpt-3/).
 
 Prompt Engineering means giving the model a prompt, or description of the task, rather than just letting it implicitly figure it out. This is done by converting the task into a prompt-based dataset and then training a language model with this new information.
 
